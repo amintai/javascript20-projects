@@ -335,6 +335,8 @@ Check out all of the submissions below! Well done everyone!
 - Russ Perry - [Github](https://github.com/rperry99/math-sprint) | [ViewLive](https://rperry99.github.io/math-sprint/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/math-sprint), [Viewlive](https://Carls13.github.io/20-javascript-projects/math-sprint)
 
+### Breakout-Game - Original: amintai [Github](https://github.com/amintai/BreakPoint) [ViewLive](https://amintai.github.io/BreakPoint/)
+
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
 - Marius Bogdanel - [Github](https://github.com/mbogdanel/kanban-board) [ViewLive](https://mbogdanel.github.io/kanban-board/)
